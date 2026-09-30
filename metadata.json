@@ -1,0 +1,7 @@
+{
+  "name": "AMA KingsPortal - Attendance & Geolocation Portal",
+  "description": "AMA Computer College KingsPortal for student attendance, picture verification with GPS geofence, time-in/time-out history, and faculty dashboard with Excel export.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
